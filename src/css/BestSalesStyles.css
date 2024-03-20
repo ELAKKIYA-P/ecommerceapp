@@ -1,0 +1,47 @@
+/* .card{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 10px;
+    }
+    .col-lg-4{
+        
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    
+.card-img-top{
+    height: 30vh;
+}
+@media screen and (max-width:1040px) {
+    .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        }
+.intro-img{
+    width: 100%;
+    background-size: cover;
+}
+
+    }
+    @media screen and (max-width:1040px) {
+        .card{
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            gap: 10px;
+           
+            
+            }
+    .card div{
+        width: 100%;
+        
+    }
+    
+        }
+     
+
+  */
